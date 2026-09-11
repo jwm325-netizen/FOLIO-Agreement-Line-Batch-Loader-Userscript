@@ -1,0 +1,6 @@
+{
+  "name": "FOLIO ERM Userscript & Agreement Line Linker",
+  "description": "Tampermonkey userscript generator and workbench to automate creating FOLIO agreement lines and associating them with order lines from eHoldings CSV exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
